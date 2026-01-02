@@ -1,1 +1,1 @@
-# replication-note-01
+Research replication note with reproducible figures and short report.
